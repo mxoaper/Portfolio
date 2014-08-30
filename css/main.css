@@ -2,3 +2,10 @@ body {
 	background-image: url("Gerb.jpg"); 
 	text-align: center;
 } 
+    Section {
+    	color: #969687;
+    	margin: 20px 20px 20px 20px;
+        border: 3px solid;
+        border-radius: 25px;
+    }
+    
