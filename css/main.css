@@ -21,3 +21,25 @@ html,body {
 .textcolor {
   color: #EEECFF;
 }
+
+.paragraph-color {
+  color: #EEECFF;
+  display: flex;
+  margin: 0 auto;
+}
+
+.paragraph1 {
+  margin: 0 0 10px;
+  padding: 10px;
+  padding-left: 111px;
+}
+
+.paragraph2 {
+  margin: 0 0 10px;
+  padding-left: 95px;
+}
+
+.paragraph3 {
+  padding-left: 68px;
+  margin: 0 0 10px;
+}
