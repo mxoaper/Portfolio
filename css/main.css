@@ -67,5 +67,7 @@ margin: 0px auto;
 }
 
 @media screen and (max-width:320px) {
-  
+  #carousel-example-generic {
+    width: 100%;
+  }
 }
