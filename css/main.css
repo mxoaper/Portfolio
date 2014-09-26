@@ -25,17 +25,19 @@ section {
     }
 
 .about {
-  color: #C2D8F3;
+  color: #FFFFFF;
+  font-size: 40px;
 }
      
 .headers {
   font-size: 25px;
-  color:rgb(207, 207, 207)
+  color:#000000;
+
 }
  
 
 .textcolor {
-  color: #EEECFF;
+  color: #000000;
 }
 
 .paragraph-color {
@@ -94,9 +96,29 @@ background-color: #887575;
   text-align: center;
 }
 
+.projects {
+  font-size: 25px;
+  color:#EEE2E2;
+}
+
+.dropdown-text {
+  font-size: 45px;
+  text-align: center;
+}
+
+.background-p {
+  background-color: rgba(204,  204, 204,  0.5);background: rgba(204,  204, 204,  0.5);color: rgba(204,  204, 204,  0.5);
+}
+
 @media screen and (max-width:320px) {
   #carousel-example-generic {
     width: 100%;
+
   }
- 
+ .projects {
+  font-size: 25px;
+  color:#EEE2E2;
+  text-align: center;
+}
+
 }
