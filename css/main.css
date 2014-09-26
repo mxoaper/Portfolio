@@ -86,10 +86,17 @@ background-color: #887575;
   background-color: black;
 }
 
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus {
+  background-color: black;
+}
+
+.icons {
+  text-align: center;
+}
 
 @media screen and (max-width:320px) {
   #carousel-example-generic {
     width: 100%;
   }
-
+ 
 }
