@@ -1,0 +1,26 @@
+html,body {
+  position: absolute;
+  height: 0;
+  width: 0;
+	background-image: url("project-background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+	text-align: center;
+  font-weight: 300;
+  background-size: cover; 
+  min-height: 100%;
+  min-width: 100%;
+
+}
+
+.header {
+  font-size: 40px;
+  color: lime;
+} 
+
+@media screen and (max-width:320px) {
+  
+}
