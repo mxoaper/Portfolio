@@ -18,8 +18,24 @@ html,body {
 
 .header {
   font-size: 40px;
-  color: lime;
+  color: #FFFFFF;
 } 
+
+.image {
+  width: 100%;
+}
+
+.text {
+  color: #FFFFFF;
+}
+
+.firstdiv {
+
+}
+
+.border{
+  border-radius: 25px;
+}
 
 @media screen and (max-width:320px) {
   
