@@ -84,8 +84,10 @@ margin: 0px auto;
 background-color: #887575;
 }
 
-.dropdown-menu {
+.dropdown-menu  {
   background-color: black;
+ 
+
 }
 
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus {
@@ -96,9 +98,11 @@ background-color: #887575;
   text-align: center;
 }
 
-.projects {
+.dropdown-items {
   font-size: 25px;
-  color:#EEE2E2;
+  text-align: center;
+  color: #555;
+
 }
 
 .dropdown-text {
