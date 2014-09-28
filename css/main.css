@@ -114,6 +114,12 @@ background-color: #887575;
   background-color: rgba(204,  204, 204,  0.5);background: rgba(204,  204, 204,  0.5);color: rgba(204,  204, 204,  0.5);
 }
 
+.dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus {
+  background-color: black;
+  background-image: linear-gradient(to bottom,#000000 0,#000000 100%);
+}
+
+
 @media screen and (max-width:320px) {
   #carousel-example-generic {
     width: 100%;
