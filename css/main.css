@@ -134,4 +134,7 @@ background-color: #887575;
   text-align: center;
 }
 
+ #header {
+  font-size: 30px;
+ }
 }
