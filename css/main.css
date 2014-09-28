@@ -119,6 +119,9 @@ background-color: #887575;
   background-image: linear-gradient(to bottom,#000000 0,#000000 100%);
 }
 
+.container-fluid {
+  background-color: black;
+}
 
 @media screen and (max-width:320px) {
   #carousel-example-generic {
